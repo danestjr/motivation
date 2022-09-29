@@ -1,6 +1,6 @@
 ## Motivation App
 
-A react app built to pull daily quotes using the Quotes on Design API
+A react app built to pull daily quotes using the Quotable API
 
 Live
 ---------
