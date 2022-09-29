@@ -18,6 +18,12 @@ Built With
 
 Daniel Estrada @estradacodes
 
+## 2022 Update
+
+* Refactored to use React hooks
+* Updated API used in the project
+* Changed build tool from create-react to Vite
+
 
 
 
